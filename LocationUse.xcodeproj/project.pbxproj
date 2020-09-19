@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A99E5E0025104A6800937AA7 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99E5DFF25104A6800937AA7 /* MapViewController.swift */; };
+		A99E5E02251068A200937AA7 /* MapResultTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99E5E01251068A200937AA7 /* MapResultTableViewController.swift */; };
+		A99E5E04251070A200937AA7 /* RouterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99E5E03251070A200937AA7 /* RouterViewController.swift */; };
 		A9A5DB9D250F4FA2003D1E99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A5DB9C250F4FA2003D1E99 /* AppDelegate.swift */; };
 		A9A5DB9F250F4FA2003D1E99 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A5DB9E250F4FA2003D1E99 /* SceneDelegate.swift */; };
 		A9A5DBA1250F4FA2003D1E99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9A5DBA0250F4FA2003D1E99 /* ViewController.swift */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A99E5DFF25104A6800937AA7 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		A99E5E01251068A200937AA7 /* MapResultTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapResultTableViewController.swift; sourceTree = "<group>"; };
+		A99E5E03251070A200937AA7 /* RouterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouterViewController.swift; sourceTree = "<group>"; };
 		A9A5DB99250F4FA2003D1E99 /* LocationUse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LocationUse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9A5DB9C250F4FA2003D1E99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A9A5DB9E250F4FA2003D1E99 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				A9A5DBA5250F4FA7003D1E99 /* Assets.xcassets */,
 				A9A5DBA7250F4FA7003D1E99 /* LaunchScreen.storyboard */,
 				A9A5DBAA250F4FA7003D1E99 /* Info.plist */,
+				A99E5DFF25104A6800937AA7 /* MapViewController.swift */,
+				A99E5E01251068A200937AA7 /* MapResultTableViewController.swift */,
+				A99E5E03251070A200937AA7 /* RouterViewController.swift */,
 			);
 			path = LocationUse;
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				A9A5DBA1250F4FA2003D1E99 /* ViewController.swift in Sources */,
 				A9A5DB9D250F4FA2003D1E99 /* AppDelegate.swift in Sources */,
 				A9A5DB9F250F4FA2003D1E99 /* SceneDelegate.swift in Sources */,
+				A99E5E02251068A200937AA7 /* MapResultTableViewController.swift in Sources */,
+				A99E5E0025104A6800937AA7 /* MapViewController.swift in Sources */,
+				A99E5E04251070A200937AA7 /* RouterViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
